@@ -1,6 +1,0 @@
-#write a program which will take input from user ,which should give be number whether number is one digit or two digit
-user = int(input('Enter the number :'))
-if user < 10:
-    print('number is single digit')
-else:
-    print('number is double digit')
